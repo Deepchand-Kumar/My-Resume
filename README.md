@@ -9,7 +9,7 @@ Features : Simple And Clean Layout
 Technology Used : HTML5
 --------------------------------------------------------------------
 How To Use :
-1. Download Zip File 
+1. Download Row File 
 2. Extract 
 3. Open index.html
 --------------------------------------------------------------------
